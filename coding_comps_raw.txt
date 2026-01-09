@@ -1,0 +1,2600 @@
+1
+USACO January Contest
+Algo
+Online
+USA/Global
+Adv
+Jan 9-12, 2026
+First contest of the calendar year. Critical for promotion.
+4-Hour Exam
+Open to all
+Register at usaco.org
+C++, Java, Python
+usaco.org
+2
+DreamVenture
+Hack
+In-Person
+Cambridge, MA
+Beg/Int
+Jan 10, 2026
+Entrepreneurship & Tech hackathon at Microsoft NERD.
+12-Hour Hack
+High School
+Register online
+Innovation, Startup
+dreamventure.cloud
+3
+Valley Hacks
+Hack
+In-Person
+Newark, CA
+Beg/Int
+Jan 10, 2026
+Bay Area student hackathon. Networking focus.
+12-Hour Hack
+High School
+Register online
+Web, App, AI
+valleyhacks.org
+4
+JourneyHacks
+Hack
+In-Person
+Burnaby, BC
+Int
+Jan 10, 2026
+Hosted at SFU. Focus on sustainability themes.
+24-Hour Hack
+HS Students
+Register via site
+Canada, GreenTech
+journeyhacks.sfusurge.com
+5
+Robofest Kickoff III
+Robotics
+Hybrid
+Southfield, MI
+All
+Jan 10, 2026
+Final rules published for 2026 World Championship.
+Workshop
+Registered Teams
+Via Coach
+Autonomous, LEGO
+robofest.net
+6
+Oxford Computing Challenge
+Algo
+Online
+UK
+Adv
+Jan 12-16, 2026
+Invite-only for top Bebras performers.
+1-Hour Exam
+Invite Only
+Through School
+Python, Logic
+bebras.uk
+7
+Missouri Cyber Challenge
+Security
+Online
+USA (MO)
+Int
+Jan 13-15, 2026
+Round 1 of the state CTF.
+CTF
+Missouri HS
+Through School
+CTF, Defense
+more.net
+8
+MITRE eCTF Start
+Security
+Online
+Global
+Adv
+Jan 14, 2026
+Competition begins. Design secure embedded system.
+Semester-Long
+HS/College
+Team Reg
+Embedded, C
+mitre.org
+9
+Coolest Projects
+Make
+Online
+Global
+All
+Jan 14, 2026
+Registration opens for global showcase.
+Project Show
+Age <18
+Submit Project
+Creative, Scratch
+coolestprojects.org
+10
+OMI (Mexico) State Quals
+Algo
+Hybrid
+Mexico
+Adv
+Jan 16, 2026
+State selection exams (e.g., Aguascalientes).
+Exam
+Mexico HS
+State Delegate
+C++, Logic
+omiags.org
+11
+HackBI IX
+Hack
+In-Person
+Alexandria, VA
+All
+Jan 17-18, 2026
+Bishop Ireton HS. Large regional event.
+24-Hour Hack
+HS Students
+Register online
+Student-Run
+hackbi.org
+12
+SWIMMER OSINT CTF
+Security
+Online
+Global
+Int
+Jan 17, 2026
+Open Source Intelligence focus.
+CTF
+Open
+Register Team
+OSINT, Research
+ctftime.org
+13
+Stang Hacks
+Hack
+In-Person
+Danville, CA
+All
+Jan 24-25, 2026
+Tri-Valley area. Focus on AI tools.
+24-Hour Hack
+HS Students
+Register online
+AI, Web
+stanghacks.com
+14
+Perse Coding Challenge R1
+Algo
+Online
+Global
+Int
+Jan 26 - Feb 6
+Round 1 window opens. Teams of 2.
+40-Min Exam
+Grade 7-11
+Teacher Reg
+Python, C++
+pctc.perse.co.uk
+15
+Wharton Data Sci Deadline
+Data
+Online
+Global
+All
+Jan 28, 2026
+Registration Deadline. "Soccer" theme.
+Project
+HS Teams (3-5)
+Team Reg
+Data, Sports
+globalyouth.wharton.upenn.edu
+16
+USACO February Contest
+Algo
+Online
+USA/Global
+Adv
+Jan 30 - Feb 2
+Second major contest.
+4-Hour Exam
+Open
+Log in to start
+Algo, Logic
+usaco.org
+17
+ElleHacks
+Hack
+In-Person
+Toronto, ON
+All
+Jan 30-Feb 1
+Women & Non-binary focus.
+36-Hour Hack
+Women/NB
+Application
+Inclusive, Tech
+ellehacks.com
+18
+CyberWave
+Hack
+In-Person
+Atlanta, GA
+All
+Jan 31-Feb 1
+Regional Georgia hackathon.
+24-Hour Hack
+HS Students
+Register online
+Makers, Code
+cyberwave.dev
+19
+PascalCTF Beginners
+Security
+Online
+Global
+Beg
+Jan 31, 2026
+Beginner focused CTF.
+CTF
+Open
+Team Reg
+Intro, Web
+ctftime.org
+20
+PicoCTF Registration
+Security
+Online
+Global
+Beg/Int
+Feb 1, 2026
+Registration opens for 2026 competition.
+CTF
+HS Students
+Teacher/Student
+Top Tier
+picoctf.org
+21
+LA CTF
+Security
+Hybrid
+Los Angeles
+Int/Adv
+Feb 6-8, 2026
+UCLA hosted. "Mini" division for HS.
+CTF
+Open/HS Div
+Team Reg
+Web, Crypto
+lac.tf
+22
+Swift Student Challenge
+App
+Online
+Global
+All
+Feb 6, 2026
+Applications OPEN. Apple's main event.
+App Project
+Student
+Apple ID
+iOS, Swift
+developer.apple.com
+23
+Arlington HS Contest
+Algo
+In-Person
+Arlington, VA
+All
+Feb 7, 2026
+Student-led at Career Center.
+3-Hour Contest
+Local HS
+Google Form
+Java, Python
+aps-hspc.pages.dev
+24
+Hack4Hope
+Hack
+In-Person
+Los Angeles
+All
+Feb 7-8, 2026
+Social impact focus.
+24-Hour Hack
+HS Students
+Register online
+Social Good
+hack4hope.com
+25
+Cornell HS Programming
+Algo
+In-Person
+Ithaca, NY
+Adv
+Feb 8, 2026
+Hosted by Cornell CS Dept.
+3-Hour Contest
+Teams of 3
+Teacher Reg
+University
+cs.cornell.edu
+26
+Bebras Australia
+Logic
+Online
+Australia
+All
+Feb 9-Mar 8
+Computational Thinking Challenge.
+45-Min Exam
+AUS Students
+School Reg
+Logic
+amt.edu.au
+27
+Girls Who Code Challenge
+App
+Online
+USA
+All
+Feb 11, 2026
+Submission Deadline. "AI + Cybersecurity".
+Project
+US Residents
+Submit Online
+AI, Cyber
+girlswhocode.com
+28
+CCC (Canada)
+Algo
+School
+Canada/Global
+Int/Adv
+Feb 18, 2026
+Canadian Computing Competition.
+3-Hour Exam
+Schools
+Teacher Order
+C++, Python
+cemc.uwaterloo.ca
+29
+USACO Third Contest
+Algo
+Online
+USA/Global
+Adv
+Feb 20-23, 2026
+Last chance to qualify for US Open.
+4-Hour Exam
+Open
+Log in
+Algo
+usaco.org
+30
+HPE CodeWars (Reg End)
+Algo
+Hybrid
+Global
+All
+Feb 2026
+Registration typically closes late Feb.
+Contest
+HS Students
+Teacher Reg
+Corporate
+hpecodewars.org
+31
+Saint Joe's Analytics R1
+Data
+Online
+USA (PA)
+Int
+Feb 25, 2026
+Round 1 (Virtual) of SJU competition.
+Data Viz
+HS Teams
+Reg by Dec 19
+Data Sci
+sju.edu
+32
+Montgomery College PC
+Algo
+In-Person
+Germantown, MD
+Int
+Feb 27, 2026
+16th Annual contest. Java/Python.
+90-Min Exam
+DMV Area
+Teacher Reg
+Local
+montgomerycollege.edu
+33
+HackIllinois
+Hack
+In-Person
+Urbana, IL
+Adv
+Feb 27-Mar 1
+UIUC hosted. HS tracks available.
+36-Hour Hack
+Student
+Application
+Open Source
+hackillinois.org
+34
+UMD HS Contest
+Algo
+In-Person
+College Park
+Adv
+Feb 28, 2026
+U. Maryland main contest.
+3-Hour Contest
+Teams of 3
+Teacher Reg
+University
+cs.umd.edu
+35
+Taylor Univ. CodeCon
+Algo
+In-Person
+Upland, IN
+All
+Feb 28, 2026
+Beginner and Advanced divisions.
+3-Hour Contest
+HS Students
+Online Form
+Regional
+codecon.cse.taylor.edu
+36
+Swift Challenge Due
+App
+Online
+Global
+All
+Feb 28, 2026
+Submission deadline for Apple contest.
+Project
+Student
+Upload
+iOS
+developer.apple.com
+37
+PicoCTF Competition
+Security
+Online
+Global
+All
+Mar 7-17, 2026
+The main event. 10 days.
+CTF
+Teams of 1-5
+Online
+Cyber, Crypto
+picoctf.org
+38
+HPE CodeWars Houston
+Algo
+In-Person
+Houston, TX
+All
+Mar 7, 2026
+Flagship HP event.
+3-Hour Contest
+HS Teams
+Teacher Reg
+Corporate
+hpecodewars.org
+39
+HPE CodeWars Roseville
+Algo
+In-Person
+Roseville, CA
+All
+Mar 7, 2026
+California HP campus.
+3-Hour Contest
+HS Teams
+Teacher Reg
+Corporate
+hpecodewars.org
+40
+HPE CodeWars Virtual
+Algo
+Online
+Global
+All
+Mar 7, 2026
+For those not near a hub.
+3-Hour Contest
+HS Teams
+Teacher Reg
+Corporate
+hpecodewars.org
+41
+HPE CodeWars Ft Collins
+Algo
+In-Person
+Ft Collins, CO
+All
+Mar 7, 2026
+Colorado HP campus.
+3-Hour Contest
+HS Teams
+Teacher Reg
+Corporate
+hpecodewars.org
+42
+HPE CodeWars NJ
+Algo
+In-Person
+Jersey City, NJ
+All
+Mar 7, 2026
+New Jersey HP campus.
+3-Hour Contest
+HS Teams
+Teacher Reg
+Corporate
+hpecodewars.org
+43
+TreeLine Hacks
+Hack
+Online
+Global
+Beg
+Mar 6-8, 2026
+Virtual hackathon.
+36-Hour Hack
+HS Students
+Devpost
+Social Good
+allhackathons.com
+44
+HackFiesta Miami
+Hack
+Online
+Global
+Beg
+Mar 9-17, 2026
+Design and low-code friendly.
+Week-Long
+HS/College
+Devpost
+Design, Web
+allhackathons.com
+45
+Saint Joe's Finals
+Data
+In-Person
+Phila, PA
+Int
+Mar 11, 2026
+Final round of Analytics comp.
+Presentation
+Finalists
+Qualify
+Data Viz
+sju.edu
+46
+SBU Contest
+Algo
+In-Person
+Bolivar, MO
+All
+Mar 13, 2026
+Southwest Baptist Univ.
+Contest
+HS Teams
+Teacher Reg
+Java, C++
+sbuniv.edu
+47
+SmathHacks
+Hack
+Hybrid
+Durham, NC
+All
+Mar 14-15, 2026
+NC School of Science & Math.
+24-Hour Hack
+HS Students
+Register
+STEM
+smathhacks.ncssm.edu
+48
+UT Dallas Battle
+Algo
+In-Person
+Dallas, TX
+Int
+Mar 21, 2026
+"Battle of the Brains". Major TX event.
+3-Hour Contest
+HS Teams
+Teacher Reg
+University
+calendar.utdallas.edu
+49
+Swiss Olympiad Finals
+Algo
+In-Person
+Switzerland
+Adv
+Mar 21-22, 2026
+SOI Finals.
+2-Day Exam
+Qualifiers
+Invite
+IOI Qual
+soi.ch
+50
+ICPC RSU HS Contest
+Algo
+In-Person
+Claremore, OK
+All
+Mar 27, 2026
+Rogers State Univ. ICPC style.
+3-Hour Contest
+Teams of 3
+Teacher Reg
+ICPC Style
+icpc.tjs.rsu.edu
+51
+USACO US Open
+Algo
+Online
+USA/Global
+Adv
+Mar 28, 2026
+The National Championship.
+5-Hour Exam
+Open
+Log in
+Championship
+usaco.org
+52
+Lockheed CYBERQUEST
+Security
+Hybrid
+Global
+Adv
+Mar 28, 2026
+Major industry CTF.
+3-Hour CTF
+HS Teams
+Reg Jan 5
+Defense
+lockheedmartin.com
+53
+Botball Oklahoma
+Robotics
+In-Person
+OKC, OK
+Int
+Mar 28, 2026
+Regional tournament.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+54
+RoboRAVE Greece
+Robotics
+In-Person
+Thessaloniki
+All
+Mar 28-29, 2026
+Europe Open.
+Challenges
+Teams
+Register
+International
+roborave.gr
+55
+FIRST Tech Challenge
+Robotics
+In-Person
+Houston, TX
+Adv
+Apr 2026
+World Championship (approx date).
+Robot Game
+Qualifiers
+Advancement
+Engineering
+firstinspires.org
+56
+CyberPatriot Reg
+Security
+Online
+USA
+All
+Apr 1, 2026
+Registration opens for Season 18.
+Training
+Teams
+Coach Reg
+Defense
+uscyberpatriot.org
+57
+StormHacks
+Hack
+In-Person
+Burnaby, BC
+All
+Oct 4-5, 2026
+(Planning) SFU.
+24-Hour Hack
+HS/College
+Application
+Western Canada
+stormhacks.com
+58
+DiamondHacks
+Hack
+In-Person
+San Diego, CA
+All
+Apr 4-5, 2026
+UCSD. Focused on impact.
+24-Hour Hack
+HS/College
+Application
+University
+news.mlh.io
+59
+Botball DC
+Robotics
+In-Person
+Great Mills, MD
+Int
+Apr 11, 2026
+Greater DC Regional.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+60
+Botball Idaho
+Robotics
+In-Person
+Eagle, ID
+Int
+Apr 11, 2026
+Idaho Regional.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+61
+UVA HS Contest
+Algo
+In-Person
+Charlottesville
+Adv
+Apr 11, 2026
+Univ. of Virginia. Large regional.
+Contest
+Teams of 3
+Teacher Reg
+University
+acm.cs.virginia.edu
+62
+George Fox Contest
+Algo
+Hybrid
+Newberg, OR
+All
+Apr 11, 2026
+Division I, II, III.
+Contest
+HS Teams
+Excel Form
+Java, Python
+cs.georgefox.edu
+63
+Triton Days (UCSD)
+Info
+In-Person
+San Diego, CA
+All
+Apr 11, 2026
+Open house, often includes engineering demos.
+Fair
+Admit/Prosp
+Register
+College Prep
+blink.ucsd.edu
+64
+Code/Art Pitch
+App
+In-Person
+Miami, FL
+All
+Apr 11, 2026
+"Future Tech LeadHERs".
+Pitch
+Girls/NB
+Submit App
+Art, Code
+code-art.com
+65
+Botball Austria
+Robotics
+In-Person
+St. Pölten
+Int
+Apr 13-17, 2026
+ECER Tournament.
+Autonomous
+Teams
+Teacher Reg
+International
+kipr.org
+66
+Baltic Olympiad (BOI)
+Algo
+In-Person
+Finland
+Adv
+Apr 15-19, 2026
+Regional IOI qualifier.
+2-Day Exam
+National Team
+Qualification
+Olympiad
+boi2026.fi
+67
+Botball Texas
+Robotics
+In-Person
+Houston, TX
+Int
+Apr 18, 2026
+Texas Regional.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+68
+Technovation Deadline
+App
+Online
+Global
+All
+Apr 20, 2026
+Submission deadline for girls.
+App/Plan
+Girls Teams
+Submit Online
+Social Entrep.
+technovationchallenge.org
+69
+VEX Worlds (HS)
+Robotics
+In-Person
+Dallas, TX
+Adv
+Apr 25-27, 2026
+High School Division.
+Robot Game
+Qualifiers
+Advancement
+Engineering
+recf.org
+70
+Botball New Mexico
+Robotics
+In-Person
+Albuquerque
+Int
+Apr 25, 2026
+NM Regional.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+71
+Botball New England
+Robotics
+In-Person
+Lawrence, MA
+Int
+May 2, 2026
+NE Regional.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+72
+Botball San Diego
+Robotics
+In-Person
+San Diego, CA
+Int
+May 2, 2026
+SoCal Regional.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+73
+Botball NorCal
+Robotics
+In-Person
+Milpitas, CA
+Int
+May 9, 2026
+Bay Area Regional.
+Autonomous
+Teams
+Teacher Reg
+Robotics
+kipr.org
+74
+MasseyHacks XII
+Hack
+In-Person
+Windsor, ON
+All
+May 9-10, 2026
+Major Canadian HS hackathon.
+24-Hour Hack
+HS Students
+Application
+Canada
+masseyhacks.ca
+75
+EGOI 2026
+Algo
+In-Person
+Italy
+Adv
+May 12-18, 2026
+European Girls' Olympiad.
+2-Day Exam
+National Team
+Qualification
+Women in Tech
+stats.egoi.org
+76
+Robofest Worlds
+Robotics
+In-Person
+Southfield, MI
+All
+May 14-16, 2026
+World Championship.
+Autonomous
+Qualifiers
+Advancement
+Vision, AI
+robofest.net
+77
+Coolest Projects UK
+Make
+In-Person
+Bradford, UK
+All
+May 16, 2026
+UK Showcase event.
+Showcase
+Age <18
+Register
+Creative
+coolestprojects.org
+78
+National STEM Fest
+STEM
+In-Person
+Wash DC
+Adv
+Spring 2026
+Finals for top projects.
+Showcase
+Qualifiers
+Advancement
+Research
+nationalstemfestival.com
+79
+Austrian Olympiad
+Algo
+In-Person
+Vienna
+Adv
+Jun 1, 2026
+Finals / CS Day.
+Exam
+Qualifiers
+Qualification
+National
+ocg.at
+80
+MATE ROV Worlds
+Robotics
+In-Person
+Canada
+Adv
+Jun 25-27, 2026
+Underwater Robotics Championship.
+ROV Missions
+Qualifiers
+Advancement
+Marine Eng
+materovcompetition.org
+81
+DownUnderCTF
+Security
+Online
+Global
+Int
+Jul 18-20, 2026
+Major Australian CTF (prep in June).
+CTF
+Open
+Register
+Cyber
+downunderctf.com
+82
+IOI 2026
+Algo
+In-Person
+Uzbekistan
+Adv
+Aug 9-16, 2026
+World Championship.
+2-Day Exam
+National Team
+Qualification
+The Summit
+ioi2026.uz
+83
+HackTheNorth
+Hack
+In-Person
+Waterloo, ON
+All
+Sep 12-14, 2026
+Prep in Spring/Summer.
+36-Hour Hack
+Students
+Application
+Massive
+hackthenorth.com
+84
+PennApps
+Hack
+In-Person
+Phila, PA
+All
+Sep 2026
+Prep in Spring/Summer.
+36-Hour Hack
+Students
+Application
+Ivy League
+pennapps.com
+85
+Congressional App
+App
+Online
+USA
+All
+May 1, 2026
+Challenge Opens.
+App Dev
+USA Students
+District Rep
+Civic Tech
+congressionalappchallenge.us
+86
+Zero Robotics
+Code
+Online
+Global
+Int
+Summer 2026
+Code satellites on ISS.
+Simulation
+Teams
+Application
+Space, SPHERES
+zerorobotics.mit.edu
+87
+Imagine Cup Junior
+AI
+Online
+Global
+All
+Jan 9, 2026
+Submission deadline.
+AI Concept
+Age 13-18
+Submit Project
+Microsoft, AI
+imaginecup.microsoft.com
+88
+CodeQuest (Lockheed)
+Algo
+In-Person
+Global
+Int
+Jan 5, 2026
+Registration opens.
+Contest
+HS Teams
+Teacher Reg
+Corporate
+lockheedmartin.com
+89
+ISEC Data Challenge
+Data
+Online
+Global
+Adv
+Jan 2026
+Fault detection in code.
+Prediction
+Open
+Kaggle
+ML, Code
+kaggle.com
+90
+RevisionDojo Research
+Data
+Online
+Global
+Int
+Jan 2026
+Predict student answers (ML).
+Classification
+Open
+Kaggle
+EdTech, ML
+kaggle.com
+91
+Big Data Bowl
+Data
+Online
+Global
+Adv
+Jan 2026
+NFL player tracking data.
+Analysis
+Open
+Kaggle
+Sports, ML
+kaggle.com
+92
+Technocup Round 2
+Algo
+Online
+Global
+Adv
+Feb 8, 2026
+Sport Coding (Russian/Global).
+Contest
+Open
+Register
+Codeforces
+cups.online
+93
+Innopolis Open R2
+Algo
+Online
+Global
+Adv
+Jan 15, 2026
+Innopolis University Contest.
+Contest
+HS Students
+Register
+Russia/Global
+cups.online
+94
+Innopolis Finals
+Algo
+Online
+Global
+Adv
+Mar 13, 2026
+Final round.
+Contest
+Qualifiers
+Invite
+High Level
+cups.online
+95
+Open Olympiad Quals
+Algo
+Online
+Global
+Adv
+Jan 13, 2026
+"XX Open Olympiad". Long round.
+Long Contest
+Open
+Register
+High Difficulty
+inf-open.ru
+96
+Open Olympiad Finals
+Algo
+Hybrid
+Moscow
+Adv
+Mar 4, 2026
+Finals of Open Olympiad.
+2-Day Exam
+Qualifiers
+Invite
+High Difficulty
+inf-open.ru
+97
+Infosec Hackathon
+Security
+Online
+Global
+All
+Spring 2026
+University hackathon.
+CTF/Hack
+Students
+Register
+Cyber
+ctftime.org
+98
+WUST CTF
+Security
+In-Person
+St. Louis, MO
+Int
+Apr 6, 2026
+WashU St. Louis CTF.
+CTF
+Local HS
+Team Reg
+University
+soclab.wust.edu
+99
+UMassCTF
+Security
+Online
+Global
+Int
+Apr 10-12, 2026
+UMass Amherst CTF.
+CTF
+Open
+Register
+University
+techlearningcollective.com
+100
+Midnight Sun CTF
+Security
+Online
+Global
+Adv
+Apr 11, 2026
+Qualifiers for Finals.
+CTF
+Open
+Register
+Sweden/Global
+ctftime.org
+101
+BlueHens CTF
+Security
+Online
+Global
+Int
+Apr 17-19, 2026
+U. Delaware CTF.
+CTF
+Open
+Register
+University
+ctftime.org
+102
+Viper Nova CTF
+Security
+Online
+Global
+Int
+May 8-10, 2026
+Romania hosted.
+CTF
+Open
+Register
+European
+ctftime.org
+103
+SSMCTF Qualifiers
+Security
+Online
+Global
+Int
+Jun 7-8, 2026
+High School specific CTF.
+CTF
+HS Students
+Register
+Student-Run
+techlearningcollective.com
+104
+Build4Students
+Hack
+Online
+Global
+All
+Jan 2026
+Month long hackathon.
+Hack
+Students
+Devpost
+Virtual
+hackathons.hackclub.com
+105
+Alameda Hacks
+Hack
+Online
+Global
+Beg
+Jan 1-11, 2026
+Beginner focus.
+Virtual
+HS Students
+Devpost
+Intro
+hackathons.hackclub.com
+106
+Winter MelonJam
+Game
+Online
+Global
+All
+Dec 26-29
+Game Jam (ends Jan).
+Game Jam
+Open
+Itch.io
+Game Dev
+hackathons.hackclub.com
+107
+Global Hack Week
+Skill
+Online
+Global
+All
+Jan 9-15, 2026
+MLH "Beginners" week.
+Workshops
+Open
+MLH Reg
+Learning
+mlh.io
+108
+SheHacks+ 10
+Hack
+In-Person
+London, ON
+All
+Jan 9-11, 2026
+Western University.
+36-Hour Hack
+Women/NB
+Application
+Canada
+mlh.io
+109
+DeltaHacks
+Hack
+In-Person
+Hamilton, ON
+All
+Jan 10-11, 2026
+McMaster University.
+24-Hour Hack
+Students
+Application
+Canada
+deltahacks.com
+110
+SB Hacks XII
+Hack
+In-Person
+Santa Barbara
+All
+Jan 10-11, 2026
+UCSB.
+36-Hour Hack
+Students
+Application
+Beach
+mlh.io
+111
+nwHacks
+Hack
+In-Person
+Vancouver, BC
+Adv
+Jan 17-18, 2026
+Western Canada's largest.
+24-Hour Hack
+Students
+Application
+High Prestige
+mlh.io
+112
+Hoya Hacks
+Hack
+In-Person
+Washington DC
+All
+Jan 23-25, 2026
+Georgetown University.
+36-Hour Hack
+Students
+Application
+Policy/Tech
+mlh.io
+113
+Rice Datathon
+Data
+In-Person
+Houston, TX
+Adv
+Jan 23-25, 2026
+Rice University. Data focus.
+Data Hack
+Students
+Application
+Data Sci
+mlh.io
+114
+SwampHacks
+Hack
+In-Person
+Gainesville, FL
+All
+Jan 23-25, 2026
+U. Florida.
+36-Hour Hack
+Students
+Application
+Gator
+mlh.io
+115
+ConUHacks X
+Hack
+In-Person
+Montreal, QC
+All
+Jan 24-25, 2026
+Concordia University.
+24-Hour Hack
+Students
+Application
+Canada
+mlh.io
+116
+Hard Hack
+Hardware
+In-Person
+La Jolla, CA
+All
+Jan 24-25, 2026
+UCSD. Hardware focus.
+Hardware
+Students
+Application
+Electronics
+mlh.io
+117
+TAMUhack
+Hack
+In-Person
+College Stn, TX
+Adv
+Jan 24-25, 2026
+Texas A&M.
+24-Hour Hack
+Students
+Application
+Major Event
+mlh.io
+118
+Hack@Brown
+Hack
+In-Person
+Providence, RI
+Adv
+Jan 31-Feb 1
+Brown University.
+Hackathon
+Students
+Application
+Ivy League
+mlh.io
+119
+HackViolet
+Hack
+In-Person
+Blacksburg, VA
+All
+Jan 31-Feb 1
+Virginia Tech. Women/NB focus.
+Hackathon
+Women/NB
+Application
+Inclusive
+mlh.io
+120
+PolyHACKS 2026
+Hack
+Online
+Montreal, QC
+All
+Jan 31-Feb 1
+Polytechnique Montreal.
+Digital Only
+Students
+Register
+French/Eng
+mlh.io
+121
+UTRA Hacks
+Hack
+In-Person
+Toronto, ON
+All
+Jan 31-Feb 1
+U of Toronto Robotics.
+Robotics Hack
+Students
+Application
+Robotics
+mlh.io
+122
+Mac-a-Thon
+Hack
+In-Person
+Hamilton, ON
+All
+Feb 6-8, 2026
+McMaster.
+Hackathon
+Students
+Application
+Canada
+mlh.io
+123
+QHacks
+Hack
+In-Person
+Kingston, ON
+All
+Feb 6-8, 2026
+Queen's University.
+Hackathon
+Students
+Application
+Canada
+mlh.io
+124
+UGAHacks 11
+Hack
+In-Person
+Athens, GA
+All
+Feb 6-8, 2026
+U. Georgia.
+Hackathon
+Students
+Application
+South US
+mlh.io
+125
+DevFest
+Hack
+In-Person
+New York, NY
+All
+Feb 7-8, 2026
+Columbia University.
+Hackathon
+Students
+Application
+Ivy League
+mlh.io
+126
+InnovateHer
+Hack
+In-Person
+W. Lafayette
+All
+Feb 7-8, 2026
+Purdue. Women/NB focus.
+Hackathon
+Women/NB
+Application
+Inclusive
+mlh.io
+127
+QWER Hacks
+Hack
+In-Person
+Los Angeles
+All
+Feb 7-8, 2026
+UCLA. LGBTQ+ focus.
+Hackathon
+Inclusive
+Application
+Inclusive
+mlh.io
+128
+CTRL+HACK+DEL
+Hack
+In-Person
+Markham, ON
+All
+Feb 13-15, 2026
+MLH event.
+Hackathon
+Students
+Application
+Canada
+mlh.io
+129
+SFHacks 2026
+Hack
+In-Person
+San Francisco
+All
+Feb 13-15, 2026
+San Francisco State Univ.
+Hackathon
+Students
+Application
+Bay Area
+mlh.io
+130
+Hacklytics
+Data
+In-Person
+Atlanta, GA
+Adv
+Feb 20-22, 2026
+Georgia Tech. Data focus.
+Data Hack
+Students
+Application
+Data Sci
+mlh.io
+131
+CrimsonCode
+Hack
+In-Person
+Pullman, WA
+All
+Feb 21-22, 2026
+Washington State Univ.
+Hackathon
+Students
+Application
+PNW
+mlh.io
+132
+HackHERS
+Hack
+In-Person
+New Brunswick
+All
+Feb 21-22, 2026
+Rutgers. Women focus.
+Hackathon
+Women/NB
+Application
+Inclusive
+mlh.io
+133
+Hack@URI
+Hack
+In-Person
+Kingston, RI
+All
+Feb 21-22, 2026
+U. Rhode Island.
+Hackathon
+Students
+Application
+New England
+mlh.io
+134
+Pearl Hacks
+Hack
+In-Person
+Chapel Hill
+All
+Feb 21-22, 2026
+UNC. Women/NB focus.
+Hackathon
+Women/NB
+Application
+Inclusive
+mlh.io
+135
+CUhackit
+Hack
+In-Person
+Clemson, SC
+All
+Feb 27-28, 2026
+Clemson University.
+Hackathon
+Students
+Application
+South US
+mlh.io
+136
+HenHacks
+Hack
+In-Person
+Newark, DE
+All
+Feb 28-Mar 1
+U. Delaware.
+Hackathon
+Students
+Application
+Mid-Atlantic
+mlh.io
+137
+WiCHacks
+Hack
+In-Person
+Rochester, NY
+All
+Feb 28-Mar 1
+RIT. Women/NB focus.
+Hackathon
+Women/NB
+Application
+Inclusive
+mlh.io
+138
+cmd-f 2026
+Hack
+In-Person
+Vancouver, BC
+All
+Mar 7-8, 2026
+UBC. Women/NB focus.
+Hackathon
+Women/NB
+Application
+Canada
+mlh.io
+139
+Rockethacks
+Hack
+In-Person
+Toledo, OH
+All
+Mar 14-15, 2026
+U. Toledo.
+Hackathon
+Students
+Application
+Midwest
+mlh.io
+140
+Kent Hack Enough
+Hack
+In-Person
+Kent, OH
+All
+Mar 28-29, 2026
+Kent State.
+Hackathon
+Students
+Application
+Midwest
+mlh.io
+141
+RevolutionUC
+Hack
+In-Person
+Cincinnati, OH
+All
+Mar 28-29, 2026
+U. Cincinnati.
+Hackathon
+Students
+Application
+Midwest
+mlh.io
+142
+HackByte 4.0
+Hack
+In-Person
+Jabalpur, MP
+All
+Apr 3-5, 2026
+IIITDM Jabalpur.
+Hackathon
+Students
+Application
+India
+news.mlh.io
+143
+DiamondHacks
+Hack
+In-Person
+San Diego, CA
+All
+Apr 4-5, 2026
+UCSD.
+Hackathon
+Students
+Application
+West Coast
+news.mlh.io
+144
+Bitcamp
+Hack
+In-Person
+College Park
+Adv
+Apr 10-12, 2026
+UMD. Major event.
+36-Hour Hack
+Students
+Application
+Major Event
+news.mlh.io
+145
+HackAmerica
+Hack
+Online
+Global
+All
+Apr 11-18, 2026
+Student-led HS hackathon.
+Virtual
+HS Students
+Register
+HS Focus
+allhackathons.com
+146
+hackMHS XI
+Hack
+In-Person
+Millburn, NJ
+All
+May 29-30, 2026
+Millburn HS. 11th year.
+24-Hour Hack
+HS Students
+Register
+HS Focus
+allhackathons.com
+147
+Shower Hacks
+Hack
+In-Person
+San Francisco
+All
+Oct 3-4, 2026
+"Winner takes a shower". Fun.
+Hackathon
+Open
+Register
+Fun
+allhackathons.com
+148
+305 Hack Spring
+Hack
+Online
+Global
+All
+Mar 20-22, 2026
+Miami based.
+Virtual
+Students
+Devpost
+Spring Break
+allhackathons.com
+149
+WAV Hackathon
+Hack
+In-Person
+Norfolk, VA
+All
+Mar 9-Apr 17
+Urban League.
+Hackathon
+Students
+Register
+Civic Tech
+allhackathons.com
+150
+Aclimakathon
+Hack
+In-Person
+Global
+All
+Mar 6-8, 2026
+Climate focus.
+Hackathon
+Students
+Register
+Climate
+allhackathons.com
+151
+Global Hack Week Data
+Skill
+Online
+Global
+All
+Feb 13-19, 2026
+MLH Data Science week.
+Workshops
+Open
+MLH Reg
+Learning
+mlh.io
+152
+Global Hack Week Cloud
+Skill
+Online
+Global
+All
+Mar 13-19, 2026
+MLH Cloud Engineering week.
+Workshops
+Open
+MLH Reg
+Learning
+mlh.io
+153
+Bebras Mini Challenge
+Logic
+Online
+Australia
+All
+Year-Round
+Practice for Bebras.
+Mini-Exam
+Students
+No Login
+Practice
+amt.edu.au
+154
+Bebras 365
+Logic
+Online
+Australia
+All
+Year-Round
+Practice archive.
+Practice
+Open
+No Login
+Practice
+amt.edu.au
+155
+CoderZ League Spring
+Robotics
+Online
+Global
+Beg/Int
+Spring 2026
+Virtual robotics league.
+Sim
+Classes
+Teacher Reg
+Block Code
+gocoderz.com
+156
+Young Coders Comp
+Scratch
+Online
+UK
+Beg
+May 8, 2026
+Submission deadline.
+Game Design
+Age 8-13
+Submit
+Scratch
+codingcompetition.org
+157
+Coolest Projects Belgium
+Make
+In-Person
+Mechelen
+All
+Mar 14, 2026
+Technopolis.
+Showcase
+Age <18
+Register
+European
+online.coolestprojects.org
+158
+Coolest Projects Japan
+Make
+In-Person
+Japan
+All
+Mar 29, 2026
+Tokyo.
+Showcase
+Age <18
+Register
+Asian
+online.coolestprojects.org
+159
+Coolest Projects MN
+Make
+In-Person
+St. Paul, MN
+All
+Apr 11, 2026
+Science Museum of MN.
+Showcase
+Age <18
+Register
+USA
+online.coolestprojects.org
+160
+Coolest Projects IE
+Make
+In-Person
+Dublin
+All
+Apr 25, 2026
+Explorium.
+Showcase
+Age <18
+Register
+Ireland
+online.coolestprojects.org
+161
+Coolest Projects GA
+Make
+In-Person
+Georgia, USA
+All
+May 2, 2026
+Georgia Tech/Area.
+Showcase
+Age <18
+Register
+USA
+online.coolestprojects.org
+162
+ProjectCSGIRLS
+Make
+Online
+USA
+All
+Spring 2026
+Registration for 2026 season.
+Project
+Girls 6-8
+Register
+Girls/STEM
+projectcsgirls.com
+163
+Technovation Deadline
+App
+Online
+Global
+All
+Apr 20, 2026
+Submission deadline.
+App/Biz Plan
+Girls
+Submit
+Social Entrep.
+iridescentsupport.zendesk.com
+164
+NCWIT Aspirations
+Award
+Online
+USA
+Adv
+Oct 2026
+(Planning) Applications open Fall.
+Portfolio
+HS Girls
+Apply
+Award
+aspirations.org
+165
+MnTech Aspirations
+Award
+Online
+Minnesota
+Adv
+Apr 2026
+Awards ceremony.
+Portfolio
+MN Girls
+Invite
+Award
+mntech.org
+166
+UAB HS Contest
+Algo
+In-Person
+Birmingham, AL
+All
+Nov 1, 2025
+(Past, watch for 2026 date).
+Contest
+HS Students
+Teacher Reg
+Regional
+uab.edu
+167
+Mercer HS Contest
+Algo
+In-Person
+Macon, GA
+All
+Spring 2026
+Mathematics/CS contest.
+Contest
+HS Teams
+Teacher Reg
+Regional
+liberalarts.mercer.edu
+168
+GaSTC Programming
+Algo
+Online
+Georgia
+All
+Mar 6, 2026
+Georgia Student Tech Comp.
+Contest
+GA Students
+School Reg
+State
+gastc.org
+169
+LSU HS Research
+Res
+In-Person
+Baton Rouge
+Adv
+Feb 6, 2026
+Summer Research Application Due.
+Internship
+LA Students
+Apply
+Research
+lsu.edu
+170
+ACPC (TAMU Club)
+Algo
+In-Person
+Texas
+Int
+Weekly
+Aggie Competitive Programming.
+Practice
+TAMU/HS
+Join
+University
+getinvolved.tamu.edu
+171
+Texas Ideas Challenge
+Biz
+In-Person
+College Stn
+All
+Spring 2026
+Entrepreneurship.
+Pitch
+TX HS
+Apply
+Startup
+mcferrin.tamu.edu
+172
+Aggieland Classic
+Robotics
+In-Person
+College Stn
+All
+Jan 24, 2026
+VEX V5 Tournament.
+Robot Game
+Teams
+Register
+Robotics
+robotevents.com
+173
+Clemson Ice Scream
+Robotics
+In-Person
+Clemson, SC
+All
+Jan 10, 2026
+VEX Tournament.
+Robot Game
+Teams
+Register
+Robotics
+robotevents.com
+174
+SC 4-H Challenge
+Eng
+In-Person
+Columbia, SC
+All
+Mar 17, 2026
+Engineering Challenge.
+Coding/Robo
+SC Youth
+Register
+STEM
+events.clemson.edu
+175
+Alabama App Challenge
+App
+Online
+Alabama
+All
+Jan 19, 2026
+Governor's App Challenge.
+App Dev
+AL Students
+Teacher Reg
+State
+governor.alabama.gov
+176
+South Alabama VEX
+Robotics
+In-Person
+Mobile, AL
+All
+Jan 10, 2026
+VEX Tournament.
+Robot Game
+Teams
+Register
+Robotics
+robotevents.com
+177
+Marquette Dairyland
+Algo
+In-Person
+Milwaukee, WI
+All
+Apr 2026
+(Est). Wisconsin-Dairyland.
+Contest
+HS Teams
+Teacher Reg
+Regional
+marquette.edu
+178
+WPI FRC District
+Robotics
+In-Person
+Worcester, MA
+Adv
+Apr 3-5, 2026
+FIRST Robotics Event.
+Robot Game
+FRC Teams
+Register
+Robotics
+frc-events.firstinspires.org
+179
+WPI Scholarships
+Award
+Online
+USA
+Adv
+Feb 23, 2026
+Design Innovation Scholarship.
+Portfolio
+Robotics
+Apply
+Scholarship
+wpi.edu
+180
+Reply Challenge Teen
+Algo
+Online
+Global
+Int
+Mar 12, 2026
+"Hack the Code" Teen Edition.
+4-Hour Exam
+Age 14-19
+Register
+Algo, Logic
+challenges.reply.com
+181
+France-IOI Algorea
+Algo
+Online
+France
+All
+Jan 5-Feb 27
+1st Round.
+Contest
+FR Schools
+Teacher Reg
+Algo
+algorea.org
+182
+France-IOI R2
+Algo
+Online
+France
+All
+Mar 2-Apr 24
+2nd Round.
+Contest
+FR Schools
+Teacher Reg
+Algo
+algorea.org
+183
+France-IOI R3
+Algo
+Online
+France
+All
+Apr 27-May 22
+3rd Round.
+Contest
+FR Schools
+Teacher Reg
+Algo
+algorea.org
+184
+BWInf (Germany) R1
+Algo
+Online
+Germany
+All
+Feb 23-Mar 8
+Jugendwettbewerb Round 1.
+Contest
+DE Schools
+Register
+Algo
+bwinf.de
+185
+BWInf (Germany) R2
+Algo
+Online
+Germany
+All
+Apr 17-May 3
+Jugendwettbewerb Round 2.
+Contest
+DE Schools
+Register
+Algo
+bwinf.de
+186
+Olimpiada Informatyczna
+Algo
+Hybrid
+Poland
+Adv
+Feb 17-19, 2026
+2nd Stage (II stopnia).
+Exam
+PL Students
+Qualification
+National
+oi.edu.pl
+187
+Olimpiada III Stopnia
+Algo
+In-Person
+Poland
+Adv
+Mar 17-20, 2026
+Finals (III stopnia).
+Exam
+Qualifiers
+Qualification
+National
+oi.edu.pl
+188
+Olimpiadi Italiane
+Algo
+In-Person
+Bologna, IT
+Adv
+Mar 13, 2026
+OIS Team Finals.
+Contest
+Qualifiers
+Qualification
+National
+foe.it
+189
+Olimpiadi Italiane R3
+Algo
+Online
+Italy
+Int
+Jan 14, 2026
+Round 3 of team contest.
+Contest
+Teams
+School Reg
+Algo
+foe.it
+190
+Olimpiadi Italiane R4
+Algo
+Online
+Italy
+Int
+Feb 12, 2026
+Round 4 of team contest.
+Contest
+Teams
+School Reg
+Algo
+foe.it
+191
+Spanish Olympiad Qual
+Algo
+Hybrid
+Spain
+Adv
+Mar 6, 2026
+Regional Qualifiers (OIA).
+Exam
+ES Students
+Register
+National
+esingenieria.uca.es
+192
+Spanish Olympiad Open
+Algo
+Online
+Spain
+Adv
+Mar 18, 2026
+Open Qualifier.
+Exam
+ES Students
+Register
+National
+olimpiada-informatica.org
+193
+Spanish Olympiad Final
+Algo
+In-Person
+Valladolid
+Adv
+Apr 10-12, 2026
+National Final (OIE).
+Exam
+Qualifiers
+Qualification
+National
+olimpiada-informatica.org
+194
+TÜBİTAK Camps (Turkey)
+Camp
+In-Person
+Turkey
+Adv
+Jan-Mar 2026
+Science Camps (Winter).
+Camp
+TR Students
+Application
+National
+bilimgenc.tubitak.gov.tr
+195
+Saudi Olympiad (NSMO)
+Algo
+In-Person
+Saudi Arabia
+Adv
+Apr 30, 2026
+National Teams Competition.
+Exam
+SA Students
+Mawhiba
+National
+mawhiba.sa
+196
+Saudi Olympiad Finals
+Algo
+In-Person
+Riyadh
+Adv
+May 16-21, 2026
+NSMO Finals.
+Exam
+Qualifiers
+Mawhiba
+National
+mawhiba.sa
+197
+HKOI Finals (Hong Kong)
+Algo
+In-Person
+Hong Kong
+Adv
+Feb 28, 2026
+Primary/Junior Finals.
+Exam
+HK Students
+School Nom
+National
+hkoi.org
+198
+NOI Singapore Prelim
+Algo
+Online
+Singapore
+Adv
+Feb 22, 2026
+National Olympiad Prelim.
+Exam
+SG Students
+School Reg
+National
+noisg.comp.nus.edu.sg
+199
+NOI Singapore Final
+Algo
+In-Person
+NUS
+Adv
+Mar 22, 2026
+National Finals.
+Exam
+Qualifiers
+Qualification
+National
+noisg.comp.nus.edu.sg
+200
+Malaysian Comp Camp
+Algo
+Online
+Malaysia
+Adv
+Jan 2, 2026
+MCO Training Camp.
+Camp
+MCO Parts
+Register
+National
+ioimalaysia.org
